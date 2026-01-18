@@ -1,0 +1,393 @@
+"","name","years","DeathType","DeathCount"
+"1","Afghanistan",54.4,"Inf Death",42
+"2","Afghanistan",54.4,"Mat Death",521
+"3","Albania",79.9,"Inf Death",10.8
+"4","Albania",79.9,"Mat Death",7
+"5","Algeria",77.9,"Inf Death",18.6
+"6","Algeria",77.9,"Mat Death",62
+"7","Andorra",83.8,"Inf Death",3.3
+"8","Andorra",83.8,"Mat Death",11
+"9","Angola",62.9,"Inf Death",46.1
+"10","Angola",62.9,"Mat Death",183
+"11","Antigua and Barbuda",78.3,"Inf Death",13.3
+"12","Antigua and Barbuda",78.3,"Mat Death",35
+"13","Argentina",78.8,"Inf Death",7.4
+"14","Argentina",78.8,"Mat Death",33
+"15","Armenia",76.7,"Inf Death",11.3
+"16","Armenia",76.7,"Mat Death",19
+"17","Australia",83.5,"Inf Death",3
+"18","Australia",83.5,"Mat Death",2
+"19","Austria",82.7,"Inf Death",3.2
+"20","Austria",82.7,"Mat Death",6
+"21","Azerbaijan",75.9,"Inf Death",10.7
+"22","Azerbaijan",75.9,"Mat Death",18
+"23","Bahamas, The",76.7,"Inf Death",9.2
+"24","Bahamas, The",76.7,"Mat Death",76
+"25","Bahrain",80.4,"Inf Death",9.6
+"26","Bahrain",80.4,"Mat Death",17
+"27","Bangladesh",75.2,"Inf Death",22
+"28","Bangladesh",75.2,"Mat Death",115
+"29","Barbados",79,"Inf Death",15.1
+"30","Barbados",79,"Mat Death",35
+"31","Belarus",74.7,"Inf Death",2.1
+"32","Belarus",74.7,"Mat Death",1
+"33","Belgium",82.3,"Inf Death",3
+"34","Belgium",82.3,"Mat Death",4
+"35","Belize",74.3,"Inf Death",11.3
+"36","Belize",74.3,"Mat Death",67
+"37","Benin",63,"Inf Death",51.6
+"38","Benin",63,"Mat Death",518
+"39","Bhutan",73.7,"Inf Death",23
+"40","Bhutan",73.7,"Mat Death",47
+"41","Bolivia",72.5,"Inf Death",22.1
+"42","Bolivia",72.5,"Mat Death",146
+"43","Bosnia and Herzegovina",78.5,"Inf Death",3.8
+"44","Bosnia and Herzegovina",78.5,"Mat Death",6
+"45","Botswana",66.4,"Inf Death",27.8
+"46","Botswana",66.4,"Mat Death",155
+"47","Brazil",76.3,"Inf Death",12.7
+"48","Brazil",76.3,"Mat Death",67
+"49","Brunei",78.9,"Inf Death",9.8
+"50","Brunei",78.9,"Mat Death",36
+"51","Bulgaria",76.1,"Inf Death",7.5
+"52","Bulgaria",76.1,"Mat Death",6
+"53","Burkina Faso",64.2,"Inf Death",48
+"54","Burkina Faso",64.2,"Mat Death",242
+"55","Burma",70.3,"Inf Death",30.8
+"56","Burma",70.3,"Mat Death",185
+"57","Burundi",68.1,"Inf Death",35.3
+"58","Burundi",68.1,"Mat Death",392
+"59","Cabo Verde",74.3,"Inf Death",21.9
+"60","Cabo Verde",74.3,"Mat Death",40
+"61","Cambodia",71.4,"Inf Death",27.2
+"62","Cambodia",71.4,"Mat Death",137
+"63","Cameroon",64.2,"Inf Death",44.6
+"64","Cameroon",64.2,"Mat Death",258
+"65","Canada",84.2,"Inf Death",3.8
+"66","Canada",84.2,"Mat Death",12
+"67","Central African Republic",56.4,"Inf Death",79.3
+"68","Central African Republic",56.4,"Mat Death",692
+"69","Chad",60,"Inf Death",61.1
+"70","Chad",60,"Mat Death",748
+"71","Chile",80.3,"Inf Death",4.5
+"72","Chile",80.3,"Mat Death",10
+"73","China",78.7,"Inf Death",6
+"74","China",78.7,"Mat Death",16
+"75","Colombia",74.9,"Inf Death",11.6
+"76","Colombia",74.9,"Mat Death",59
+"77","Comoros",67.8,"Inf Death",53.9
+"78","Comoros",67.8,"Mat Death",179
+"79","Congo, Democratic Republic of the",62.6,"Inf Death",55.8
+"80","Congo, Democratic Republic of the",62.6,"Mat Death",427
+"81","Congo, Republic of the",72.9,"Inf Death",29.9
+"82","Congo, Republic of the",72.9,"Mat Death",241
+"83","Cook Islands",77.6,"Inf Death",14.8
+"84","Cook Islands",77.6,"Mat Death",0
+"85","Costa Rica",80.3,"Inf Death",6.3
+"86","Costa Rica",80.3,"Mat Death",24
+"87","Cote d'Ivoire",63.2,"Inf Death",52.3
+"88","Cote d'Ivoire",63.2,"Mat Death",359
+"89","Croatia",77.7,"Inf Death",3.4
+"90","Croatia",77.7,"Mat Death",3
+"91","Cuba",80.1,"Inf Death",5.2
+"92","Cuba",80.1,"Mat Death",35
+"93","Cyprus",80.2,"Inf Death",7.9
+"94","Cyprus",80.2,"Mat Death",14
+"95","Czechia",78.6,"Inf Death",2.5
+"96","Czechia",78.6,"Mat Death",3
+"97","Denmark",82.1,"Inf Death",3.1
+"98","Denmark",82.1,"Mat Death",4
+"99","Djibouti",65.9,"Inf Death",44.3
+"100","Djibouti",65.9,"Mat Death",162
+"101","Dominica",78.7,"Inf Death",10.5
+"102","Dominica",78.7,"Mat Death",36
+"103","Dominican Republic",72.6,"Inf Death",20.8
+"104","Dominican Republic",72.6,"Mat Death",124
+"105","Ecuador",74.9,"Inf Death",11.2
+"106","Ecuador",74.9,"Mat Death",55
+"107","Egypt",75,"Inf Death",16.4
+"108","Egypt",75,"Mat Death",17
+"109","El Salvador",75.9,"Inf Death",10
+"110","El Salvador",75.9,"Mat Death",39
+"111","Equatorial Guinea",63.9,"Inf Death",76.9
+"112","Equatorial Guinea",63.9,"Mat Death",174
+"113","Eritrea",67.5,"Inf Death",39
+"114","Eritrea",67.5,"Mat Death",291
+"115","Estonia",78.4,"Inf Death",2
+"116","Estonia",78.4,"Mat Death",5
+"117","Eswatini",60.7,"Inf Death",38
+"118","Eswatini",60.7,"Mat Death",118
+"119","Ethiopia",67.7,"Inf Death",31.3
+"120","Ethiopia",67.7,"Mat Death",195
+"121","Fiji",74.8,"Inf Death",9.4
+"122","Fiji",74.8,"Mat Death",30
+"123","Finland",82.2,"Inf Death",1.9
+"124","Finland",82.2,"Mat Death",8
+"125","France",82.6,"Inf Death",3.1
+"126","France",82.6,"Mat Death",7
+"127","Gabon",70.4,"Inf Death",26
+"128","Gabon",70.4,"Mat Death",233
+"129","Gambia, The",68.4,"Inf Death",35
+"130","Gambia, The",68.4,"Mat Death",354
+"131","Gaza Strip",75.5,"Inf Death",14.2
+"132","Gaza Strip",75.5,"Mat Death",16
+"133","Georgia",72.8,"Inf Death",20.9
+"134","Georgia",72.8,"Mat Death",20
+"135","Germany",81.9,"Inf Death",3
+"136","Germany",81.9,"Mat Death",4
+"137","Ghana",70.1,"Inf Death",30.5
+"138","Ghana",70.1,"Mat Death",234
+"139","Greece",81.9,"Inf Death",3.4
+"140","Greece",81.9,"Mat Death",5
+"141","Grenada",76.3,"Inf Death",8.8
+"142","Grenada",76.3,"Mat Death",48
+"143","Guatemala",73.5,"Inf Death",23.4
+"144","Guatemala",73.5,"Mat Death",94
+"145","Guinea",64.6,"Inf Death",45.8
+"146","Guinea",64.6,"Mat Death",494
+"147","Guinea-Bissau",64.5,"Inf Death",45.1
+"148","Guinea-Bissau",64.5,"Mat Death",505
+"149","Guyana",72.4,"Inf Death",20.6
+"150","Guyana",72.4,"Mat Death",75
+"151","Haiti",65.6,"Inf Death",35
+"152","Haiti",65.6,"Mat Death",328
+"153","Honduras",73.1,"Inf Death",15.4
+"154","Honduras",73.1,"Mat Death",47
+"155","Hungary",76,"Inf Death",4.6
+"156","Hungary",76,"Mat Death",12
+"157","Iceland",84,"Inf Death",1.6
+"158","Iceland",84,"Mat Death",3
+"159","India",68.2,"Inf Death",30.5
+"160","India",68.2,"Mat Death",80
+"161","Indonesia",73.6,"Inf Death",18.5
+"162","Indonesia",73.6,"Mat Death",140
+"163","Iran",75.6,"Inf Death",9.7
+"164","Iran",75.6,"Mat Death",16
+"165","Iraq",73.7,"Inf Death",18.3
+"166","Iraq",73.7,"Mat Death",66
+"167","Ireland",82,"Inf Death",3.2
+"168","Ireland",82,"Mat Death",4
+"169","Israel",83.1,"Inf Death",2.6
+"170","Israel",83.1,"Mat Death",2
+"171","Italy",83,"Inf Death",3
+"172","Italy",83,"Mat Death",6
+"173","Jamaica",76.3,"Inf Death",14.5
+"174","Jamaica",76.3,"Mat Death",130
+"175","Japan",85.2,"Inf Death",1.8
+"176","Japan",85.2,"Mat Death",3
+"177","Jordan",76.5,"Inf Death",12.9
+"178","Jordan",76.5,"Mat Death",31
+"179","Kazakhstan",73.3,"Inf Death",7.9
+"180","Kazakhstan",73.3,"Mat Death",10
+"181","Kenya",70.4,"Inf Death",26.8
+"182","Kenya",70.4,"Mat Death",379
+"183","Kiribati",68.5,"Inf Death",30.8
+"184","Kiribati",68.5,"Mat Death",80
+"185","Korea, North",73.5,"Inf Death",14.7
+"186","Korea, North",73.5,"Mat Death",67
+"187","Korea, South",83.4,"Inf Death",2.2
+"188","Korea, South",83.4,"Mat Death",4
+"189","Kuwait",79.6,"Inf Death",7
+"190","Kuwait",79.6,"Mat Death",8
+"191","Kyrgyzstan",72.9,"Inf Death",24
+"192","Kyrgyzstan",72.9,"Mat Death",42
+"193","Laos",69,"Inf Death",34.2
+"194","Laos",69,"Mat Death",112
+"195","Latvia",76.4,"Inf Death",2.4
+"196","Latvia",76.4,"Mat Death",19
+"197","Lebanon",79.2,"Inf Death",7.3
+"198","Lebanon",79.2,"Mat Death",15
+"199","Lesotho",60.2,"Inf Death",52.2
+"200","Lesotho",60.2,"Mat Death",478
+"201","Liberia",61.6,"Inf Death",55.2
+"202","Liberia",61.6,"Mat Death",628
+"203","Libya",77.7,"Inf Death",10.4
+"204","Libya",77.7,"Mat Death",59
+"205","Lithuania",76.1,"Inf Death",2.5
+"206","Lithuania",76.1,"Mat Death",8
+"207","Luxembourg",83.4,"Inf Death",3.1
+"208","Luxembourg",83.4,"Mat Death",12
+"209","Madagascar",68.8,"Inf Death",38.4
+"210","Madagascar",68.8,"Mat Death",445
+"211","Malawi",73,"Inf Death",28.9
+"212","Malawi",73,"Mat Death",225
+"213","Malaysia",76.6,"Inf Death",6.3
+"214","Malaysia",76.6,"Mat Death",26
+"215","Maldives",77.4,"Inf Death",23.7
+"216","Maldives",77.4,"Mat Death",32
+"217","Mali",63.2,"Inf Death",55.8
+"218","Mali",63.2,"Mat Death",367
+"219","Malta",83.6,"Inf Death",4.6
+"220","Malta",83.6,"Mat Death",8
+"221","Marshall Islands",75.2,"Inf Death",20.1
+"222","Marshall Islands",75.2,"Mat Death",155
+"223","Mauritania",65.9,"Inf Death",29.9
+"224","Mauritania",65.9,"Mat Death",381
+"225","Mauritius",75.4,"Inf Death",11.4
+"226","Mauritius",75.4,"Mat Death",66
+"227","Mexico",74.6,"Inf Death",12.3
+"228","Mexico",74.6,"Mat Death",42
+"229","Micronesia, Federated States of",75,"Inf Death",20.4
+"230","Micronesia, Federated States of",75,"Mat Death",129
+"231","Moldova",70.1,"Inf Death",13.5
+"232","Moldova",70.1,"Mat Death",19
+"233","Monaco",89.8,"Inf Death",1.7
+"234","Monaco",89.8,"Mat Death",5
+"235","Mongolia",71.9,"Inf Death",8.6
+"236","Mongolia",71.9,"Mat Death",41
+"237","Montenegro",78.2,"Inf Death",3.1
+"238","Montenegro",78.2,"Mat Death",6
+"239","Morocco",74.2,"Inf Death",17.8
+"240","Morocco",74.2,"Mat Death",70
+"241","Mozambique",58.3,"Inf Death",56.7
+"242","Mozambique",58.3,"Mat Death",82
+"243","Namibia",65.9,"Inf Death",27.1
+"244","Namibia",65.9,"Mat Death",139
+"245","Nauru",68.6,"Inf Death",7.5
+"246","Nauru",68.6,"Mat Death",273
+"247","Nepal",73,"Inf Death",23.4
+"248","Nepal",73,"Mat Death",142
+"249","Netherlands",81.9,"Inf Death",3.6
+"250","Netherlands",81.9,"Mat Death",4
+"251","New Zealand",82.9,"Inf Death",3.3
+"252","New Zealand",82.9,"Mat Death",7
+"253","Nicaragua",74.7,"Inf Death",14.1
+"254","Nicaragua",74.7,"Mat Death",60
+"255","Niger",60.9,"Inf Death",63
+"256","Niger",60.9,"Mat Death",350
+"257","Nigeria",62.2,"Inf Death",65.6
+"258","Nigeria",62.2,"Mat Death",993
+"259","North Macedonia",77.3,"Inf Death",6.8
+"260","North Macedonia",77.3,"Mat Death",3
+"261","Norway",82.9,"Inf Death",1.8
+"262","Norway",82.9,"Mat Death",1
+"263","Oman",77.4,"Inf Death",13.6
+"264","Oman",77.4,"Mat Death",13
+"265","Pakistan",70.3,"Inf Death",50.3
+"266","Pakistan",70.3,"Mat Death",155
+"267","Palau",75.2,"Inf Death",10.6
+"268","Palau",75.2,"Mat Death",89
+"269","Panama",79.2,"Inf Death",13.2
+"270","Panama",79.2,"Mat Death",37
+"271","Papua New Guinea",70.1,"Inf Death",31.3
+"272","Papua New Guinea",70.1,"Mat Death",189
+"273","Paraguay",78.8,"Inf Death",21.4
+"274","Paraguay",78.8,"Mat Death",58
+"275","Peru",68.9,"Inf Death",10.6
+"276","Peru",68.9,"Mat Death",51
+"277","Philippines",70.8,"Inf Death",18.5
+"278","Philippines",70.8,"Mat Death",84
+"279","Poland",76.7,"Inf Death",4.6
+"280","Poland",76.7,"Mat Death",2
+"281","Portugal",81.9,"Inf Death",2.4
+"282","Portugal",81.9,"Mat Death",15
+"283","Puerto Rico",82.1,"Inf Death",5.7
+"284","Puerto Rico",82.1,"Mat Death",11
+"285","Qatar",80.3,"Inf Death",6.2
+"286","Qatar",80.3,"Mat Death",4
+"287","Romania",76.9,"Inf Death",5.3
+"288","Romania",76.9,"Mat Death",12
+"289","Russia",72.3,"Inf Death",6.4
+"290","Russia",72.3,"Mat Death",9
+"291","Rwanda",66.6,"Inf Death",27.4
+"292","Rwanda",66.6,"Mat Death",229
+"293","Saint Kitts and Nevis",77.6,"Inf Death",7.9
+"294","Saint Kitts and Nevis",77.6,"Mat Death",74
+"295","Saint Lucia",79.4,"Inf Death",11.3
+"296","Saint Lucia",79.4,"Mat Death",44
+"297","Saint Vincent and the Grenadines",77.2,"Inf Death",12
+"298","Saint Vincent and the Grenadines",77.2,"Mat Death",56
+"299","Samoa",75.7,"Inf Death",17.2
+"300","Samoa",75.7,"Mat Death",101
+"301","San Marino",84.2,"Inf Death",6.1
+"302","San Marino",84.2,"Mat Death",8
+"303","Sao Tome and Principe",67.7,"Inf Death",41.7
+"304","Sao Tome and Principe",67.7,"Mat Death",75
+"305","Saudi Arabia",77.2,"Inf Death",11.4
+"306","Saudi Arabia",77.2,"Mat Death",7
+"307","Senegal",70.6,"Inf Death",30.4
+"308","Senegal",70.6,"Mat Death",237
+"309","Serbia",75.3,"Inf Death",4.4
+"310","Serbia",75.3,"Mat Death",11
+"311","Seychelles",76.6,"Inf Death",10
+"312","Seychelles",76.6,"Mat Death",42
+"313","Sierra Leone",59.4,"Inf Death",70.1
+"314","Sierra Leone",59.4,"Mat Death",354
+"315","Singapore",86.7,"Inf Death",1.5
+"316","Singapore",86.7,"Mat Death",6
+"317","Slovakia",77.2,"Inf Death",5
+"318","Slovakia",77.2,"Mat Death",4
+"319","Slovenia",82.2,"Inf Death",1.8
+"320","Slovenia",82.2,"Mat Death",3
+"321","Solomon Islands",77.2,"Inf Death",18.6
+"322","Solomon Islands",77.2,"Mat Death",123
+"323","Somalia",56.5,"Inf Death",81.5
+"324","Somalia",56.5,"Mat Death",563
+"325","South Africa",71.9,"Inf Death",19.7
+"326","South Africa",71.9,"Mat Death",118
+"327","South Sudan",60.3,"Inf Death",58.6
+"328","South Sudan",60.3,"Mat Death",692
+"329","Spain",83,"Inf Death",2.4
+"330","Spain",83,"Mat Death",3
+"331","Sri Lanka",76.8,"Inf Death",6.8
+"332","Sri Lanka",76.8,"Mat Death",18
+"333","Sudan",67.8,"Inf Death",39.7
+"334","Sudan",67.8,"Mat Death",256
+"335","Suriname",72.7,"Inf Death",29.3
+"336","Suriname",72.7,"Mat Death",84
+"337","Sweden",82.9,"Inf Death",2.2
+"338","Sweden",82.9,"Mat Death",4
+"339","Switzerland",83.9,"Inf Death",3
+"340","Switzerland",83.9,"Mat Death",5
+"341","Syria",74.8,"Inf Death",14.7
+"342","Syria",74.8,"Mat Death",20
+"343","Tajikistan",71.9,"Inf Death",20.3
+"344","Tajikistan",71.9,"Mat Death",14
+"345","Tanzania",70.8,"Inf Death",28.4
+"346","Tanzania",70.8,"Mat Death",276
+"347","Thailand",78.2,"Inf Death",6.2
+"348","Thailand",78.2,"Mat Death",34
+"349","Timor-Leste",70.5,"Inf Death",41.9
+"350","Timor-Leste",70.5,"Mat Death",192
+"351","Togo",72.1,"Inf Death",34.5
+"352","Togo",72.1,"Mat Death",349
+"353","Tonga",78,"Inf Death",11.5
+"354","Tonga",78,"Mat Death",67
+"355","Trinidad and Tobago",76.5,"Inf Death",14.7
+"356","Trinidad and Tobago",76.5,"Mat Death",54
+"357","Tunisia",77.3,"Inf Death",10.6
+"358","Tunisia",77.3,"Mat Death",36
+"359","Turkey (Turkiye)",76.7,"Inf Death",17.9
+"360","Turkey (Turkiye)",76.7,"Mat Death",15
+"361","Turkmenistan",72.4,"Inf Death",35
+"362","Turkmenistan",72.4,"Mat Death",5
+"363","Tuvalu",69,"Inf Death",27.2
+"364","Tuvalu",69,"Mat Death",170
+"365","Uganda",69.7,"Inf Death",27.5
+"366","Uganda",69.7,"Mat Death",170
+"367","Ukraine",70.5,"Inf Death",8.4
+"368","Ukraine",70.5,"Mat Death",15
+"369","United Arab Emirates",79.9,"Inf Death",4.9
+"370","United Arab Emirates",79.9,"Mat Death",3
+"371","United Kingdom",82.2,"Inf Death",3.7
+"372","United Kingdom",82.2,"Mat Death",8
+"373","United States",80.9,"Inf Death",5
+"374","United States",80.9,"Mat Death",17
+"375","Uruguay",78.9,"Inf Death",6.9
+"376","Uruguay",78.9,"Mat Death",15
+"377","Uzbekistan",76.2,"Inf Death",17.6
+"378","Uzbekistan",76.2,"Mat Death",26
+"379","Vanuatu",75.7,"Inf Death",13.4
+"380","Vanuatu",75.7,"Mat Death",100
+"381","Venezuela",74.5,"Inf Death",13.6
+"382","Venezuela",74.5,"Mat Death",227
+"383","Vietnam",76.1,"Inf Death",13.8
+"384","Vietnam",76.1,"Mat Death",48
+"385","West Bank",76.5,"Inf Death",14.2
+"386","West Bank",76.5,"Mat Death",16
+"387","Yemen",68.2,"Inf Death",42.4
+"388","Yemen",68.2,"Mat Death",118
+"389","Zambia",66.9,"Inf Death",30.1
+"390","Zambia",66.9,"Mat Death",85
+"391","Zimbabwe",67.2,"Inf Death",32.8
+"392","Zimbabwe",67.2,"Mat Death",358

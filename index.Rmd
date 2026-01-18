@@ -1,0 +1,180 @@
+---
+title: An R Markdown document converted from "Meg_Integrating_R.ipynb"
+output: html_document
+---
+
+Read the Data files from Homework 3 to merge
+
+```{r}
+# locate the 3 output files from Homework 3
+linkToLifeExpectancyCSV="https://github.com/megvonguru/HW-3/raw/refs/heads/main/dataCleaned/cleanLifeExpect.csv"
+linkToMaternalMortalityCSV="https://github.com/megvonguru/HW-3/raw/refs/heads/main/dataCleaned/cleanMatMortality.csv"
+linkToInfantMortalityCSV="https://github.com/megvonguru/HW-3/raw/refs/heads/main/dataCleaned/cleanInfMortality.csv"
+```
+
+```{r}
+#Read the CSV files and remove the first column
+lifeExpectCSV=read.csv(linkToLifeExpectancyCSV)
+lifeExpectCSV <- lifeExpectCSV[, -1]
+
+matMortCSV=read.csv(linkToMaternalMortalityCSV)
+matMortCSV <- matMortCSV[, -1]
+
+infMortCSV=read.csv(linkToInfantMortalityCSV)
+infMortCSV <- infMortCSV[, -1]
+
+# Review the data to make sure its coming right
+head(lifeExpectCSV)
+head(matMortCSV)
+head(infMortCSV)
+```
+
+```{r}
+#Data column in both Maternal and Infant mortality files are named as Death. Renaming them to distinguish the columns
+colnames(matMortCSV)[colnames(matMortCSV) == "Death"] <- "Mat Death"
+head(matMortCSV)
+
+colnames(infMortCSV)[colnames(infMortCSV) == "Death"] <- "Inf Death"
+head(infMortCSV)
+```
+
+Exercise 1: Merging the input files
+
+```{r}
+# Merge lifeExpectCSV and infMortCSV files first
+merged_data <- merge(lifeExpectCSV, infMortCSV, by = "name", all = FALSE)
+
+# Now merge the result with matMortCSV
+final_merged_data <- merge(merged_data, matMortCSV, by = "name", all = FALSE)
+
+# Display the final merged data to make sure it looks OK
+head(final_merged_data)
+```
+
+```{r}
+# Since Region column is there in each file, the column is duplicated. Remove the duplicate columns
+
+# Remove 'Region.x' column
+final_merged_data$Region.x <- NULL
+
+# Remove 'Region.y' column
+final_merged_data$Region.y <- NULL
+
+# Display some of the data to make sure its right
+head(final_merged_data)
+```
+
+Exercise 2: Aggregating the files
+
+```{r}
+# Aggregate final_merged_data by region and calculate the sum of Inf Death
+aggregated_inf_death <- aggregate(`Inf Death` ~ region, data = final_merged_data, FUN = sum)
+
+# Display the aggregated data for Inf Death
+head(aggregated_inf_death)
+```
+
+```{r}
+#Do the same aggregation on the second file too
+
+# Aggregate final_merged_data by region and calculate the sum of Mat Death
+aggregated_mat_death <- aggregate(`Mat Death` ~ region, data = final_merged_data, FUN = sum)
+
+# Display the aggregated data for Mat Death
+head(aggregated_mat_death)
+```
+
+```{r}
+# Now merge both the files
+
+# Merge aggregated_inf_death and aggregated_mat_death by region
+merged_aggregated_data <- merge(aggregated_inf_death, aggregated_mat_death, by = "region")
+
+# Display the merged aggregated data
+head(merged_aggregated_data)
+```
+
+Exercise 3: Reshaping the data
+
+```{r}
+# Load the tidyr package, install if not already present
+if (!require(tidyr)) {
+  install.packages("tidyr")
+  library(tidyr)
+}
+```
+
+```{r}
+# Remove 'region' column from the file
+no_region_data <- final_merged_data
+no_region_data$region <- NULL
+
+
+
+# Convert final_merged_data to long format
+long_format_data <- no_region_data %>%
+  pivot_longer(cols = c(`Inf Death`, `Mat Death`),
+               names_to = "DeathType",
+               values_to = "DeathCount")
+
+# Display the first few rows of the long format data
+head(long_format_data)
+```
+
+Saving the output files
+
+```{r}
+# Save the files in a subfolder called integratedData
+folder <- "integratedData"
+
+# Check if the folder exists
+if (!dir.exists(folder)) {
+  # Create the folder
+  dir.create(folder)
+ }
+
+#First file is named mergedFile. Save it in both RDS and csv formats
+mergedFile=final_merged_data[,]
+saveRDS(mergedFile,file.path(folder,"mergedFile.RDS"))
+ write.csv(mergedFile,file.path(folder,"mergedFile.csv"))
+
+#Second file is named aggregatedFile
+aggregatedFile=merged_aggregated_data[,]
+saveRDS(aggregatedFile,file.path(folder,"aggregatedFile.RDS"))
+ write.csv(aggregatedFile,file.path(folder,"aggregatedFile.csv"))
+
+#Third file is name reshapedFile
+reshapedFile=long_format_data[,]
+saveRDS(reshapedFile,file.path(folder,"reshapedFile.RDS"))
+ write.csv(reshapedFile,file.path(folder,"reshapedFile.csv"))
+```
+
+Read the saved files to make sure the data can be retrieved
+
+```{r}
+#Read both RDS and csv files for mergedFile and display first few rows
+mergedFileRDS=readRDS(file.path(folder,"mergedFile.RDS"))
+head(mergedFileRDS)
+
+mergedFileCSV=read.csv(file.path(folder,"mergedFile.csv"))
+head(mergedFileCSV)
+```
+
+```{r}
+#Read both RDS and csv files for aggregatedFile and display first few rows
+aggregatedFileRDS=readRDS(file.path(folder,"aggregatedFile.RDS"))
+head(aggregatedFileRDS)
+
+aggregatedFileCSV=read.csv(file.path(folder,"aggregatedFile.csv"))
+head(aggregatedFileCSV)
+```
+
+```{r}
+#Read both RDS and csv files for reshapedFile and display first few rows
+reshapedFileRDS=readRDS(file.path(folder,"reshapedFile.RDS"))
+head(reshapedFileRDS)
+
+reshapedFileCSV=read.csv(file.path(folder,"reshapedFile.csv"))
+head(reshapedFileCSV)
+```
+

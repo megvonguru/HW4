@@ -1,0 +1,197 @@
+"","name","years","region","Inf Death","Mat Death"
+"1","Afghanistan",54.4,"South Asia",42,521
+"2","Albania",79.9,"Europe",10.8,7
+"3","Algeria",77.9,"Africa",18.6,62
+"4","Andorra",83.8,"Europe",3.3,11
+"5","Angola",62.9,"Africa",46.1,183
+"6","Antigua and Barbuda",78.3,"Central America and the Caribbean",13.3,35
+"7","Argentina",78.8,"South America",7.4,33
+"8","Armenia",76.7,"Central Asia",11.3,19
+"9","Australia",83.5,"Australia and Oceania",3,2
+"10","Austria",82.7,"Europe",3.2,6
+"11","Azerbaijan",75.9,"Central Asia",10.7,18
+"12","Bahamas, The",76.7,"Central America and the Caribbean",9.2,76
+"13","Bahrain",80.4,"Middle East",9.6,17
+"14","Bangladesh",75.2,"South Asia",22,115
+"15","Barbados",79,"Central America and the Caribbean",15.1,35
+"16","Belarus",74.7,"Europe",2.1,1
+"17","Belgium",82.3,"Europe",3,4
+"18","Belize",74.3,"Central America and the Caribbean",11.3,67
+"19","Benin",63,"Africa",51.6,518
+"20","Bhutan",73.7,"South Asia",23,47
+"21","Bolivia",72.5,"South America",22.1,146
+"22","Bosnia and Herzegovina",78.5,"Europe",3.8,6
+"23","Botswana",66.4,"Africa",27.8,155
+"24","Brazil",76.3,"South America",12.7,67
+"25","Brunei",78.9,"East and Southeast Asia",9.8,36
+"26","Bulgaria",76.1,"Europe",7.5,6
+"27","Burkina Faso",64.2,"Africa",48,242
+"28","Burma",70.3,"East and Southeast Asia",30.8,185
+"29","Burundi",68.1,"Africa",35.3,392
+"30","Cabo Verde",74.3,"Africa",21.9,40
+"31","Cambodia",71.4,"East and Southeast Asia",27.2,137
+"32","Cameroon",64.2,"Africa",44.6,258
+"33","Canada",84.2,"North America",3.8,12
+"34","Central African Republic",56.4,"Africa",79.3,692
+"35","Chad",60,"Africa",61.1,748
+"36","Chile",80.3,"South America",4.5,10
+"37","China",78.7,"East and Southeast Asia",6,16
+"38","Colombia",74.9,"South America",11.6,59
+"39","Comoros",67.8,"Africa",53.9,179
+"40","Congo, Democratic Republic of the",62.6,"Africa",55.8,427
+"41","Congo, Republic of the",72.9,"Africa",29.9,241
+"42","Cook Islands",77.6,"Australia and Oceania",14.8,0
+"43","Costa Rica",80.3,"Central America and the Caribbean",6.3,24
+"44","Cote d'Ivoire",63.2,"Africa",52.3,359
+"45","Croatia",77.7,"Europe",3.4,3
+"46","Cuba",80.1,"Central America and the Caribbean",5.2,35
+"47","Cyprus",80.2,"Europe",7.9,14
+"48","Czechia",78.6,"Europe",2.5,3
+"49","Denmark",82.1,"Europe",3.1,4
+"50","Djibouti",65.9,"Africa",44.3,162
+"51","Dominica",78.7,"Central America and the Caribbean",10.5,36
+"52","Dominican Republic",72.6,"Central America and the Caribbean",20.8,124
+"53","Ecuador",74.9,"South America",11.2,55
+"54","Egypt",75,"Africa",16.4,17
+"55","El Salvador",75.9,"Central America and the Caribbean",10,39
+"56","Equatorial Guinea",63.9,"Africa",76.9,174
+"57","Eritrea",67.5,"Africa",39,291
+"58","Estonia",78.4,"Europe",2,5
+"59","Eswatini",60.7,"Africa",38,118
+"60","Ethiopia",67.7,"Africa",31.3,195
+"61","Fiji",74.8,"Australia and Oceania",9.4,30
+"62","Finland",82.2,"Europe",1.9,8
+"63","France",82.6,"Europe",3.1,7
+"64","Gabon",70.4,"Africa",26,233
+"65","Gambia, The",68.4,"Africa",35,354
+"66","Gaza Strip",75.5,"Middle East",14.2,16
+"67","Georgia",72.8,"Central Asia",20.9,20
+"68","Germany",81.9,"Europe",3,4
+"69","Ghana",70.1,"Africa",30.5,234
+"70","Greece",81.9,"Europe",3.4,5
+"71","Grenada",76.3,"Central America and the Caribbean",8.8,48
+"72","Guatemala",73.5,"Central America and the Caribbean",23.4,94
+"73","Guinea",64.6,"Africa",45.8,494
+"74","Guinea-Bissau",64.5,"Africa",45.1,505
+"75","Guyana",72.4,"South America",20.6,75
+"76","Haiti",65.6,"Central America and the Caribbean",35,328
+"77","Honduras",73.1,"Central America and the Caribbean",15.4,47
+"78","Hungary",76,"Europe",4.6,12
+"79","Iceland",84,"Europe",1.6,3
+"80","India",68.2,"South Asia",30.5,80
+"81","Indonesia",73.6,"East and Southeast Asia",18.5,140
+"82","Iran",75.6,"Middle East",9.7,16
+"83","Iraq",73.7,"Middle East",18.3,66
+"84","Ireland",82,"Europe",3.2,4
+"85","Israel",83.1,"Middle East",2.6,2
+"86","Italy",83,"Europe",3,6
+"87","Jamaica",76.3,"Central America and the Caribbean",14.5,130
+"88","Japan",85.2,"East and Southeast Asia",1.8,3
+"89","Jordan",76.5,"Middle East",12.9,31
+"90","Kazakhstan",73.3,"Central Asia",7.9,10
+"91","Kenya",70.4,"Africa",26.8,379
+"92","Kiribati",68.5,"Australia and Oceania",30.8,80
+"93","Korea, North",73.5,"East and Southeast Asia",14.7,67
+"94","Korea, South",83.4,"East and Southeast Asia",2.2,4
+"95","Kuwait",79.6,"Middle East",7,8
+"96","Kyrgyzstan",72.9,"Central Asia",24,42
+"97","Laos",69,"East and Southeast Asia",34.2,112
+"98","Latvia",76.4,"Europe",2.4,19
+"99","Lebanon",79.2,"Middle East",7.3,15
+"100","Lesotho",60.2,"Africa",52.2,478
+"101","Liberia",61.6,"Africa",55.2,628
+"102","Libya",77.7,"Africa",10.4,59
+"103","Lithuania",76.1,"Europe",2.5,8
+"104","Luxembourg",83.4,"Europe",3.1,12
+"105","Madagascar",68.8,"Africa",38.4,445
+"106","Malawi",73,"Africa",28.9,225
+"107","Malaysia",76.6,"East and Southeast Asia",6.3,26
+"108","Maldives",77.4,"South Asia",23.7,32
+"109","Mali",63.2,"Africa",55.8,367
+"110","Malta",83.6,"Europe",4.6,8
+"111","Marshall Islands",75.2,"Australia and Oceania",20.1,155
+"112","Mauritania",65.9,"Africa",29.9,381
+"113","Mauritius",75.4,"Africa",11.4,66
+"114","Mexico",74.6,"North America",12.3,42
+"115","Micronesia, Federated States of",75,"Australia and Oceania",20.4,129
+"116","Moldova",70.1,"Europe",13.5,19
+"117","Monaco",89.8,"Europe",1.7,5
+"118","Mongolia",71.9,"East and Southeast Asia",8.6,41
+"119","Montenegro",78.2,"Europe",3.1,6
+"120","Morocco",74.2,"Africa",17.8,70
+"121","Mozambique",58.3,"Africa",56.7,82
+"122","Namibia",65.9,"Africa",27.1,139
+"123","Nauru",68.6,"Australia and Oceania",7.5,273
+"124","Nepal",73,"South Asia",23.4,142
+"125","Netherlands",81.9,"Europe",3.6,4
+"126","New Zealand",82.9,"Australia and Oceania",3.3,7
+"127","Nicaragua",74.7,"Central America and the Caribbean",14.1,60
+"128","Niger",60.9,"Africa",63,350
+"129","Nigeria",62.2,"Africa",65.6,993
+"130","North Macedonia",77.3,"Europe",6.8,3
+"131","Norway",82.9,"Europe",1.8,1
+"132","Oman",77.4,"Middle East",13.6,13
+"133","Pakistan",70.3,"South Asia",50.3,155
+"134","Palau",75.2,"Australia and Oceania",10.6,89
+"135","Panama",79.2,"Central America and the Caribbean",13.2,37
+"136","Papua New Guinea",70.1,"East and Southeast Asia",31.3,189
+"137","Paraguay",78.8,"South America",21.4,58
+"138","Peru",68.9,"South America",10.6,51
+"139","Philippines",70.8,"East and Southeast Asia",18.5,84
+"140","Poland",76.7,"Europe",4.6,2
+"141","Portugal",81.9,"Europe",2.4,15
+"142","Puerto Rico",82.1,"Central America and the Caribbean",5.7,11
+"143","Qatar",80.3,"Middle East",6.2,4
+"144","Romania",76.9,"Europe",5.3,12
+"145","Russia",72.3,"Central Asia",6.4,9
+"146","Rwanda",66.6,"Africa",27.4,229
+"147","Saint Kitts and Nevis",77.6,"Central America and the Caribbean",7.9,74
+"148","Saint Lucia",79.4,"Central America and the Caribbean",11.3,44
+"149","Saint Vincent and the Grenadines",77.2,"Central America and the Caribbean",12,56
+"150","Samoa",75.7,"Australia and Oceania",17.2,101
+"151","San Marino",84.2,"Europe",6.1,8
+"152","Sao Tome and Principe",67.7,"Africa",41.7,75
+"153","Saudi Arabia",77.2,"Middle East",11.4,7
+"154","Senegal",70.6,"Africa",30.4,237
+"155","Serbia",75.3,"Europe",4.4,11
+"156","Seychelles",76.6,"Africa",10,42
+"157","Sierra Leone",59.4,"Africa",70.1,354
+"158","Singapore",86.7,"East and Southeast Asia",1.5,6
+"159","Slovakia",77.2,"Europe",5,4
+"160","Slovenia",82.2,"Europe",1.8,3
+"161","Solomon Islands",77.2,"Australia and Oceania",18.6,123
+"162","Somalia",56.5,"Africa",81.5,563
+"163","South Africa",71.9,"Africa",19.7,118
+"164","South Sudan",60.3,"Africa",58.6,692
+"165","Spain",83,"Europe",2.4,3
+"166","Sri Lanka",76.8,"South Asia",6.8,18
+"167","Sudan",67.8,"Africa",39.7,256
+"168","Suriname",72.7,"South America",29.3,84
+"169","Sweden",82.9,"Europe",2.2,4
+"170","Switzerland",83.9,"Europe",3,5
+"171","Syria",74.8,"Middle East",14.7,20
+"172","Tajikistan",71.9,"Central Asia",20.3,14
+"173","Tanzania",70.8,"Africa",28.4,276
+"174","Thailand",78.2,"East and Southeast Asia",6.2,34
+"175","Timor-Leste",70.5,"East and Southeast Asia",41.9,192
+"176","Togo",72.1,"Africa",34.5,349
+"177","Tonga",78,"Australia and Oceania",11.5,67
+"178","Trinidad and Tobago",76.5,"Central America and the Caribbean",14.7,54
+"179","Tunisia",77.3,"Africa",10.6,36
+"180","Turkey (Turkiye)",76.7,"Middle East",17.9,15
+"181","Turkmenistan",72.4,"Central Asia",35,5
+"182","Tuvalu",69,"Australia and Oceania",27.2,170
+"183","Uganda",69.7,"Africa",27.5,170
+"184","Ukraine",70.5,"Europe",8.4,15
+"185","United Arab Emirates",79.9,"Middle East",4.9,3
+"186","United Kingdom",82.2,"Europe",3.7,8
+"187","United States",80.9,"North America",5,17
+"188","Uruguay",78.9,"South America",6.9,15
+"189","Uzbekistan",76.2,"Central Asia",17.6,26
+"190","Vanuatu",75.7,"Australia and Oceania",13.4,100
+"191","Venezuela",74.5,"South America",13.6,227
+"192","Vietnam",76.1,"East and Southeast Asia",13.8,48
+"193","West Bank",76.5,"Middle East",14.2,16
+"194","Yemen",68.2,"Middle East",42.4,118
+"195","Zambia",66.9,"Africa",30.1,85
+"196","Zimbabwe",67.2,"Africa",32.8,358
